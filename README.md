@@ -1,2 +1,5 @@
 # utpl-nd-isd-salazar-larco-antonio-andres
-Repositorio para los trabajos de la materia de Implementación de Soluciones Digitales
+## Un repositorio para los trabajos de la materia de Implementación de Soluciones Digitales
+
+_Cada día podemos aprender algo nuevo_
+
