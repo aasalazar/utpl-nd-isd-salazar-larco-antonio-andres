@@ -19,3 +19,4 @@ _Cada día podemos aprender algo nuevo_
 * Desplegar uno que otro proyecto
 
 Conoce más acerca de la [Maestría en Negocios Digitales de la UTPL](https://www.edes.utpl.edu.ec/maestria-en-negocios-digitales/)
+Te interesa algo de los que has visto aquí, conectemos en [LinkedIn](https://www.linkedin.com/in/aasalazar/)
