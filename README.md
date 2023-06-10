@@ -8,7 +8,7 @@
 - Para compartir mis progresos con el docente
 - Para trabajar de forma colaborativa con mis compañeros
 
-## ¿Cuáles son mis motivaciones para crear este repositorio? :grinning:
+## ¿Cuáles son mis motivaciones al crear este repositorio? :grinning:
 + Actualizar mis conocimientos relacionados al dessarrollo de software colaborativo
 + Aprender nuevas herramientas acorde a las necesidades del mercado
 + Colaborar con otras personas que no necesariamente estén en mi misma geografía
