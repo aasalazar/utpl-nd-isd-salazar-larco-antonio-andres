@@ -14,8 +14,8 @@
 + Colaborar con otras personas que no necesariamente estén en mi misma geografía
 
 ## ¿Cuáles son mis objetivos de aprendizaje en la materia? :grimacing:
-* Aprender a creara y gestionar un proyecto en GitHub
-* Aprender de Git y como interactúar con otras personas
+* Aprender a crear y gestionar un proyecto en GitHub
+* Aprender comandos de Git y cómo se usan
 * Desplegar uno que otro proyecto
 
 
